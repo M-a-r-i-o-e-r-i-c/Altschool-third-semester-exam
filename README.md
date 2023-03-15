@@ -1,5 +1,7 @@
 # altschool-counter-app
 
+## Hosted link: https://altschool-third-semester-exam-zeta.vercel.app/
+
 ## Project setup
 ```
 npm install
